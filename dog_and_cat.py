@@ -16,7 +16,7 @@ is_training = False
 
 data_path = "./train"
 
-# 猫狗大战
+# 猫狗大战 2018 12 18 星期二
 # 使用预训练的RestNet50
 # 99% 准确，成了
 # 怎么写数据 https://blog.csdn.net/pursuit_zhangyu/article/details/80581215
